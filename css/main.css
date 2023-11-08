@@ -108,6 +108,12 @@ body {
   height: 100%;
 }
 
+.headline {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
 .wrapper {
   /*add display:flex and set justify-content to space-between*/
   font-weight: 700;
